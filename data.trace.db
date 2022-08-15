@@ -1,0 +1,4 @@
+2022-08-15 12:39:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTES" no encontrada
+Table "CLIENTES" not found; SQL statement:
+INSERT INTO CLIENTES(NOMBRE,APELLIDO,DNI) values ('Lucas','Saldaña',10100100), ('Juan Carlos','Pelotudo',10100200) [42102-214]
